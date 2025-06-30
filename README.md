@@ -5,4 +5,4 @@
   - `SCR_RespawnSystemComponent`: Establecer lógica de spawn
 - Briefing con formato listo para editar en la carpeta `Configs > JournalArgA.conf`
 - Crear SpawnPoint agregando el componente `SpawnPoint_ARGA_CP.et`
-- Editar el Mission Header acorde a la misión en `Missions > EveronTemplateHeader.conf`
+- Editar el Mission Header acorde a la misión en `Missions > TemplateAnizayHeader.conf`
