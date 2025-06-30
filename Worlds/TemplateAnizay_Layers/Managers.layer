@@ -1,0 +1,26 @@
+SCR_AIWorld : "{3D0FE80570D5BFCC}Prefabs/AI/SCR_AIWorld_Anizay.et" {
+ coords 5206.583 156.519 5231.004
+}
+PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 5215.575 158.353 5219.848
+}
+SCR_BaseGameMode GameMode_Base1 : "{0F307326459A1395}Prefabs/MP/Modes/GameMode_Base.et" {
+ components {
+  SCR_EditorRespawnBriefingComponent "{65BD28CF45402F0C}" {
+   m_sJournalConfigPath "{0C221D3AACF1D7E5}Configs/Journal/JournalArgA.conf"
+  }
+ }
+ coords 5240.273 160.332 5223.59
+}
+ScriptedChatEntity : "{536D80EB494DDC43}Prefabs/MP/Campaign/CampaignMPChatEntity.et" {
+ coords 5212.246 157.33 5216.787
+}
+RadioManagerEntity : "{B8E09FAB91C4ECCD}Prefabs/Radio/RadioManager.et" {
+ coords 5213.217 157.729 5219.496
+}
+SCR_FactionManager FactionManager_Editor_ARGA1 : "{CC1388A64DF3B77E}Prefabs/MP/Managers/Factions/FactionManager_Editor_ARGA.et" {
+ coords 5240.548 160.299 5225.252
+}
+SCR_LoadoutManager : "{1181E02A10EBAFA4}Prefabs/MP/Managers/Loadouts/LoadoutManager_ARGA.et" {
+ coords 5247.371 160.767 5219.018
+}
